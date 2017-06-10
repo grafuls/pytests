@@ -1,3 +1,4 @@
 pytest
 pytest-catchlog
 pytest-xdist
+pytest-cov
